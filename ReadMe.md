@@ -41,3 +41,8 @@ This section contains the different feature extractions for on view of our data-
 	Here the warning video in the data-set was used as the training data-set. Each file consist of a small code which trains the given SVM. The mat files generated hold the SVM results for both test videos.
  
 	2. Results: This showcases some of the examples of the output that was generated from the One-class SVM’s after mapping the points back onto the test-cases given in the data-set.
+	
+##Authors:
+===============
+Akshita Mittel (cs13b1040@iith.ac.in)
+CH Sree Ram Sreekar (cs13b1008@iith.ac.in)
